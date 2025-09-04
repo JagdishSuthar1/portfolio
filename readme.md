@@ -1,0 +1,1 @@
+My professional resume — showcasing skills, experience, and projects. Full details available on my website
