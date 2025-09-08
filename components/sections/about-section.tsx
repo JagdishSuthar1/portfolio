@@ -38,7 +38,7 @@ export function AboutSection() {
       <div className="pt-1">
         <Button asChild className={"hover:cursor-pointer"}>
           <a
-            href="https://drive.google.com/file/d/1O8y4d3ThI35atuyC3RDldNgb2Np999G5/view?usp=sharing"
+            href="https://drive.google.com/file/d/1u3doINrO-P12WwBIIlYyGqlyUDp4DJv-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Open Jagdish Suthar resume on Google Drive (opens in a new tab)"
